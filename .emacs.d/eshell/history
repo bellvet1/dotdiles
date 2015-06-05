@@ -1,0 +1,113 @@
+ls
+exit
+ls
+cd dropbox
+ls
+exit
+ls
+exit
+ls
+platex
+cd /usr/local/
+ls
+brew install ghostscript
+sudo brew install ghostscript
+ls
+ls
+ls
+ifconfig
+ifconfig
+ifconfig
+exit
+ls
+ifconfig
+sudo purge
+ls
+emacs test1
+cd
+ls
+cd test1
+which platex
+which gs
+mkdir doc
+lsd
+ls
+mv SSP追加ドキュメント.tex /doc
+sudo mv SSP追加ドキュメント.tex /doc
+exit
+ls
+ls
+sudo gem install terminal-notifier
+sudo gem install terminal-notifier
+unzip growl_new_message_notification-0.4.2-tb-mac.xpi
+ls
+cd download
+cd User
+cd Downloads/
+ls
+cd
+exit
+ls
+cd
+ls
+cd Downloads/
+ls
+cd PyCherryPick-master/
+ls
+cd python/
+ls
+python pycherrypick.py http://tgaudition.ameba.jp/
+exit
+ls
+ls -l
+cd desktop
+ls
+exit
+ipconfig
+ifconfig
+nmap
+ls
+ls
+cd
+ls
+ls
+cd desktop
+ls
+sudo tcpdump -X -w tcptest
+ln -s Dropbox/.emacs.d .emacs.d
+mkdir C言語課題ディレクトリ
+ls
+cd C言語課題ディレクトリ/
+ls
+ls -l
+cd ../
+ls -l
+brew install gcc cc 
+brew install gcc 
+cc
+gcc
+cc
+cc
+ls
+cd C言語課題ディレクトリ/
+ls
+/. a.out 
+/.a.out 
+./ a.out 
+./a.out 
+ls
+emacs k1.exe
+emacs k1.c
+pwd
+ls
+cd /Volumes/YCShared/ISO学生委員会 
+ls
+ls -al
+chmod 000 いーそ/
+ls -l
+cd いーそ/
+ls
+cd サンプル/
+ls
+cd ../
+ls
